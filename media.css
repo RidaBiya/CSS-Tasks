@@ -1,0 +1,68 @@
+#b1
+{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+    padding: 20px;
+    float: left;
+}
+
+#b2
+{
+    text-decoration: none;
+    color: white;
+    background-color: palevioletred;
+    border: 2px solid palevioletred;
+    padding: 20px;
+    float: left;
+}
+
+#b3
+{
+    text-decoration: none;
+    color: white;
+    background-color: greenyellow;
+    border: 2px solid greenyellow;
+    padding: 20px;
+    float: left;
+}
+
+
+#b4
+{
+    text-decoration: none;
+    color: white;
+    background-color: skyblue;
+    border: 2px solid skyblue;
+    padding: 20px;
+    float: left;
+}
+
+@media screen and (max-width:400px) 
+{
+    #b1
+    {
+        width: 100%;
+        border-radius: 10px;
+        background-color: blueviolet;
+    }
+    #b2
+    {
+        width: 100%;
+        border-radius: 10px;
+        background-color: blueviolet;
+    }
+    #b3
+    {
+        width: 100%;
+        border-radius: 10px;
+        background-color: blueviolet;
+    }
+    #b4
+    {
+        width: 100%;
+        border-radius: 10px;
+        background-color: blueviolet;
+    }
+}

@@ -1,0 +1,24 @@
+*
+{
+    padding: 12px;
+}
+#tbl
+{
+    background-color: rgb(48, 48, 251);
+    color: white;
+     position: relative; 
+
+ 
+}
+.col{
+    background-color:gainsboro;
+    padding: 08px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border: 2px;
+    border-color: blue;
+}
+
+  

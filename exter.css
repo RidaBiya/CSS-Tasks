@@ -1,0 +1,75 @@
+/* *
+{ 
+    background-color: black;
+} */
+h1
+{
+    color: black;
+}
+#input1
+{
+     color: white;
+     border-bottom: solid red;
+     border-bottom-width: 3px;
+     border-top: none;
+     border-left: none;
+     border-right: none; 
+}
+#input2
+{
+     color: white;
+     border-bottom: solid blue;
+     border-bottom-width: 3px;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+    
+}
+#input3
+{
+     color: white;
+     border-bottom: solid yellow;
+     border-bottom-width: 3px;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+}
+#input4
+{
+     color: white;
+     border-bottom: solid darkturquoise;
+     border-bottom-width: 3px;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+}
+
+#button
+{
+    color: black;
+    border-bottom: solid orangered;
+    border-bottom-width: 3px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 10px;
+}
+#nav1
+{
+     padding: 10px;
+     /* margin-left: 400px; */
+     background-color: aqua;
+}
+#div1
+{
+     margin-left: 300px;
+     display: inline;
+}
+.nav2
+{
+     border: 2px solid black;
+     text-decoration: none;
+     background-color: black;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+}

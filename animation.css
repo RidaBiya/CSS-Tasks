@@ -1,0 +1,118 @@
+.text{
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+    justify-content: space-between;
+    color: white;
+}
+#animated1
+{
+    background-color: black;
+    height: 600px;
+}
+#animated2
+{
+    background-color: rgb(235, 155, 37);
+    height: 100px;
+    width: 100px;
+    animation-duration: 5s;
+    animation-name: rida;
+    animation-iteration-count: infinite;
+    position: relative;
+}
+@keyframes rida
+{
+    0%
+    {
+        top: 0px;
+        left: 0px;
+        background-color: brown;
+        border-radius: 100px;
+    }
+    50%
+    {
+        top: 500px;
+        left: 550px;
+        /* bottom: 200px; */
+        background-color: blue;
+        border-radius: 100px;
+    }
+    100%
+    {
+        top: 0px;
+        left: 1085px;
+        border-radius: 100px;
+    }
+}
+
+/* 2nd key frame */
+#animated3
+{
+    background-color: rgb(37, 215, 235);
+    height: 100px;
+    width: 100px;
+    animation-duration: 5s;
+    animation-name: biya;
+    animation-iteration-count: infinite;
+    position: absolute;
+}
+@keyframes biya
+{
+    0%
+        {
+            top: 0px;
+            left: 1085px;
+            border-radius: 100px;
+        }
+    50%
+    {
+        top: 500px;
+        left: 550px;
+        /* bottom: 200px; */
+        background-color: rgb(205, 240, 30);
+        border-radius: 100px;
+    }
+    100%
+    {
+        top: 0px;
+        left: 0px;
+        background-color: brown;
+        border-radius: 100px;
+    }
+}
+
+/* 2nd key frame */
+#animated3
+{
+    background-color: rgb(37, 215, 235);
+    height: 100px;
+    width: 100px;
+    animation-duration: 5s;
+    animation-name: biya;
+    animation-iteration-count: infinite;
+    position: absolute;
+}
+@keyframes ridabiya
+{
+    0%
+        {
+            top: 0px;
+            left: 1085px;
+            border-radius: 100px;
+        }
+    50%
+    {
+        top: 500px;
+        left: 550px;
+        /* bottom: 200px; */
+        background-color: rgb(205, 240, 30);
+        border-radius: 100px;
+    }
+    100%
+    {
+        top: 0px;
+        left: 0px;
+        background-color: brown;
+        border-radius: 100px;
+    }
+}

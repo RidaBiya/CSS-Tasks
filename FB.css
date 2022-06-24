@@ -1,0 +1,48 @@
+h3
+{
+    color: blue;
+}
+.input1
+{
+    background-color: silver;
+    border:2px;
+    border-color: silver;
+    border-radius: 2px;
+    margin-top: 3px;  
+}
+#button1
+{
+    background-color: blue;
+    border-color: blue;
+    border-radius: 2px;
+    border: 2px;
+    color: white;
+    margin-top: 5px;
+    display: inline-block;
+    padding-left: 65px;
+    padding-right: 65px;
+    text-decoration: none;
+}
+#FP
+{
+    color: rgb(8, 91, 124);
+}
+#button2
+{
+    background-color: green;
+    color: white;
+    border-color: green;
+    border-radius: 2px;
+    border: 2px;
+    margin-top: 5px;
+    display: inline-block;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    }
+    .a
+    {
+        color: rgb(13, 56, 108);
+        text-decoration: none;
+    }
